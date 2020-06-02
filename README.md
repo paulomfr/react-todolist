@@ -2,6 +2,11 @@
 
 The idea behind this project is to teach the fundamentals of React.js
 
+### Challenge
+- Delete text in input when add a new task;
+- Mark as done a item in todo list;
+- (optional) Option to delete a task in todo list;
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
